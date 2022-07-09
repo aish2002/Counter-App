@@ -1,4 +1,4 @@
-# Counter App (Code<H>er Task 2)
+# Counter App (CodHer Task 2)
 
 Simple React web application to increment and decrement a number.
 
