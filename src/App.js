@@ -11,7 +11,7 @@ function App() {
       
     <Row className="justify-content-center align-items-center   ">
     <Col md="4" sm="6" xs="6" className="column1" > 
-        <h1 className="text-center mt-5 pt-5">Counter</h1>
+        <h1 className="text-center mt-5 pt-5 head">Counter</h1>
             <Card > 
              <Card.Body> {val}</Card.Body> </Card>
             <Row className="justify-content-center align-items-center ml-5 mr-5 ">

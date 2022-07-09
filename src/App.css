@@ -7,9 +7,13 @@
   background-color: #6e7582;
   overflow-x: hidden;
   color: #f39189;
-  font-weight:bold;
-  
 }
+
+.head{
+  font-weight: 650 !important;
+  font-size: 3rem;
+}
+
 .card{
   background-color: #6e7582 !important;
   border: none !important;
